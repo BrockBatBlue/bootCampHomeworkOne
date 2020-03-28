@@ -63,13 +63,13 @@ p {
 }
 
 /* Left section under hero styles */
-.content {
+.contentLeft {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Individual sections inside the content section */
+/* Individual sections inside the contentLeft section */
 .informationBoxes {
     margin-bottom: 20px;
     padding: 50px;
@@ -100,7 +100,7 @@ p {
 }
 
 /* Right section under hero styles */
-.benefits {
+.contentRight {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -111,7 +111,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Individual sections inside the benefits section */
+/* Individual sections inside the contentRight section */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
